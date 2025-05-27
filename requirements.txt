@@ -1,0 +1,14 @@
+streamlit
+SmartApi
+numpy==1.23.5
+pandas
+openai
+redis
+mysql-connector-python
+python-dotenv
+requests
+schedule
+setuptools
+pandas_ta
+openpyxl
+dotenv
