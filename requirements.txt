@@ -1,6 +1,6 @@
 streamlit
 SmartApi
-numpy==1.23.5
+numpy>=1.24.0,<2.0.0
 pandas
 openai
 redis
